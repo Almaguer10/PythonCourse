@@ -1,0 +1,16 @@
+♥ Sacar lo que le falto al modulo para ser entero
+
+Ejemplo
+    56/3
+    -18.66666666...7 -> Que llegue al siguiente entero
+    -56%3 = 2 Parte entera de lo que le falto para ser exacta (1)
+    -Sacar la parte que si pudo ser entera (54)
+
+♥ Invertir el signo
+    -Si esta en negativo pasar positivo
+    -Si esta positivo pasar negativo
+Nota: La funcion ABS solo lo mantiene en positivo
+
+♥Buscar solucion a math.isnan cuando le pasas un texto
+
+♥Encontrar la manera de sacar la raiz cubica, a la 4 a la raiz que se desea
